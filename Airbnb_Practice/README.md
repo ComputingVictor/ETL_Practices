@@ -1,6 +1,6 @@
 # Airbnb Practice 
 
-<div style="text-align:center"><img src="https://www.apartelius.com/blog/wp-content/uploads/2017/09/Sincronizar-calendario-Airbnb.jpg:*" /></div>
+<div style="text-align:center"><img src="https://www.apartelius.com/blog/wp-content/uploads/2017/09/Sincronizar-calendario-Airbnb.jpg" /></div>
 
 
 ## About the project
