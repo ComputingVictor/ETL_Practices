@@ -19,6 +19,7 @@ It can contain two times &, or two of these symbols, or three, but cannot contai
 ## Built with 
 
 - Python 3.10
+- Jupyter
 
 ## Content of the repository
 
