@@ -1,9 +1,9 @@
-# ETL Practices 
+# Regex_Practice 
 
-<div style="text-align:center"><img src="https://blog.bismart.com/hs-fs/hubfs/Imported_Blog_Media/ETL/20190604_imagen2.jpg?width=2777&name=20190604_imagen2.jpg:*" /></div>.
+<div style="text-align:center"><img src="https://d2h1bfu6zrdxog.cloudfront.net/wp-content/uploads/2022/04/coderpad-regex-the-complete-guide.jpg:*" /></div>.
 
 
-## About the repository
+## About the project
 
 This repository will include the evaluable practices of the subject 'Extraction, Transformation and Loading' belonging to the Master in Data Science at CUNEF during the academic year 2022-2023.
 
