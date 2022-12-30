@@ -1,6 +1,8 @@
 # Regex Practice 
 
-<div style="text-align:center"><img src="https://d2h1bfu6zrdxog.cloudfront.net/wp-content/uploads/2022/04/coderpad-regex-the-complete-guide.jpg:*" /></div>.
+<div style="text-align:center"><img src="https://global.discourse-cdn.com/business6/uploads/dynamobim/original/3X/b/3/b3387b3185e237b8f7dea85d750f33d91b697772.jpeg" /></div>
+
+
 
 
 ## About the practice
