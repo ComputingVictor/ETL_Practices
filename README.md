@@ -29,7 +29,7 @@ Víctor Viloria Vázquez - <victor.viloria@cunef.edu>
 
 Project Link: <https://github.com/ComputingVictor/ETL_Practices>
 
-Linkedin - <https://www.linkedin.com/in/vicviloria/>
+LinkedIn - <https://www.linkedin.com/in/vicviloria/>
 
 
 <a href="#top">Back to top</a>
