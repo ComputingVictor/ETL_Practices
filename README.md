@@ -14,7 +14,7 @@ This repository will include the evaluable practices of the subject 'Extraction,
 - Python 3.10
 - Jupyter Notebook
 - Rstudio
-- Pyspark
+- Sparklyr
 
 ## Content of the repository
 
